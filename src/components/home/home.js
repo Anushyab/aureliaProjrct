@@ -1,4 +1,4 @@
-import '/bower_components/fetch/fetch';
+import '../../../bower_components/fetch/fetch';
 import {Router} from 'aurelia-router';
 export class Home {
 //  getData() {
